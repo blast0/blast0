@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure
 <!--
 **blast0/blast0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
