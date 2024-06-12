@@ -5,7 +5,7 @@
 
 - 🌱 Always eager to learn new things especially in Javascript frameworks and tools
 - 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
-- ⚡ Fun fact: I love to play games, travel, reading, and watch latest trends
+- ⚡ Fun fact: I love to play games, travel, reading, and learn latest technology trends
 - 📫 How to reach me **bishalkumar.sde@gmail.com**
 
 <!-- <hr/>
@@ -31,11 +31,8 @@
 <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/nuxt-icon.svg" alt="nuxtjs" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 <br/>
-<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="laravel" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
@@ -49,31 +46,16 @@
 </p>
  <h4>Cross-platform App Development:</h4>
 <p align="left">
-<img src="https://cdn.svgporn.com/logos/ionic-icon.svg" alt="ionic" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/cordova.svg" alt="cordova" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/capacitorjs-icon.svg" alt="capacitor" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/microsoft-teams.svg" alt="ionic" width="40" height="40"/>
+ <img src="https://www.vanroey.be/wp-content/uploads/Microsoft-Power-Apps-Icon.png" alt="ionic" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/>
+ <img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
-<img src="https://bitrise-steplib-collection.s3.amazonaws.com/steps/expo-detach/assets/icon.svg" alt="expo" width="40" height="40"/>
   </p>
 <hr/>
 <h3>Connect with me:</h3>
 
 <a href="https://bishalkumar-sde.netlify.app" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://linkedin.com/in/bishal-kumar-832398158" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
-
-
-
-<!--
-**blast0/blast0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
