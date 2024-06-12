@@ -6,7 +6,7 @@
 - 🌱 Always eager to learn new things especially in Javascript frameworks and tools
 - 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
 - ⚡ Fun fact: I love to play games, travel, reading, and watch latest trends
-- 📫 How to reach me **marc@kevinflor.es**
+- 📫 How to reach me **bishalkumar.sde@gmail.com**
 
 <!-- <hr/>
 <h3 align="left">Current Work:</h3>
