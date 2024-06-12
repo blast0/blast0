@@ -58,7 +58,7 @@
 <hr/>
 <h3>Connect with me:</h3>
 
-<a href="https://kevinflor.es" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://bishalkumar-sde.netlify.app" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://linkedin.com/in/bishal-kumar-832398158" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 
 
