@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure
-<h3 align="left">I'm a Software Engineer in the Philippines</h3>
+<h3 align="left">I'm a Software Engineer in India</h3>
 
 - 🌱 Always eager to learn new things especially in Javascript frameworks and tools
 - 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
