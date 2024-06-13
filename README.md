@@ -1,23 +1,25 @@
-<!--# Hi there 👋-->
+# Hi there 👋
 
-<!--## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure-->
-<!--<h3 align="left">I'm a Software Engineer in the Philippines</h3>-->
+## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure
+<h3 align="left">I'm a Software Engineer in the Philippines</h3>
 
-<!--- 🌱 Always eager to learn new things especially in Javascript frameworks and tools-->
-<!--- 🥅 My goal is to work around such as writing in backend, front-end, and mobile development-->
-<!--- ⚡ Fun fact: I love to play games, travel, reading, and learn latest technology trends-->
-<!--- 📫 How to reach me **bishalkumar.sde@gmail.com**-->
+- 🌱 Always eager to learn new things especially in Javascript frameworks and tools
+- 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
+- ⚡ Fun fact: I love to play games, travel, reading, and learn latest technology trends
+- 📫 How to reach me **bishalkumar.sde@gmail.com**
 
-<!-- <hr/>
+ <hr/>
 <h3 align="left">Current Work:</h3>
-<span><b>Position:</b>  Front-end developer</span>
+<span><b>Position:</b> Software Engineer</span>
+<hr/>
 <h4>Tech Stacks I worked on:</h4>
-<p>
- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" /> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> </a>
- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" /> </a>
-</p>
-<hr/> -->
+
+<!--<p>-->
+<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" /> </a>-->
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" /> </a>-->
+<!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" /> </a>-->
+<!--</p>-->
+
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
 
