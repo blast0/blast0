@@ -29,7 +29,7 @@ HTML &nbsp;&nbsp;&nbsp;CSS &nbsp; Javascript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <br/>
-TypeScript&nbsp; Jqeury &nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;NextJS
+TypeScript&nbsp; Jqeury &nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;NextJS
 &nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
