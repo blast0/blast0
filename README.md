@@ -1,12 +1,12 @@
-# Hi there 👋
+<!--# Hi there 👋-->
 
-## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure
-<h3 align="left">I'm a Software Engineer in the Philippines</h3>
+<!--## I am Bishal Kumar, i am a Software Engineer, currently working on MERN | MEAN stack and other technologies such as Microsoft Power Platform and Microsoft Azure-->
+<!--<h3 align="left">I'm a Software Engineer in the Philippines</h3>-->
 
-- 🌱 Always eager to learn new things especially in Javascript frameworks and tools
-- 🥅 My goal is to work around such as writing in backend, front-end, and mobile development
-- ⚡ Fun fact: I love to play games, travel, reading, and learn latest technology trends
-- 📫 How to reach me **bishalkumar.sde@gmail.com**
+<!--- 🌱 Always eager to learn new things especially in Javascript frameworks and tools-->
+<!--- 🥅 My goal is to work around such as writing in backend, front-end, and mobile development-->
+<!--- ⚡ Fun fact: I love to play games, travel, reading, and learn latest technology trends-->
+<!--- 📫 How to reach me **bishalkumar.sde@gmail.com**-->
 
 <!-- <hr/>
 <h3 align="left">Current Work:</h3>
@@ -20,29 +20,34 @@
 <hr/> -->
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+
+HTML &nbsp;&nbsp;&nbsp;CSS &nbsp; Javascript
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<br/>
+TypeScript&nbsp; Jqeury &nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;NextJS
+&nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/vue.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 <br/>
-<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/dotnet.svg" alt="dotnetcore" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="40" height="40"/>
-<img src="https://discord.do/wp-content/uploads/2024/04/Apollo-GraphQL.jpg" alt="apollographql" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="vite" width="40" height="40"/>
+C Sharp &nbsp;NodeJS&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Firebase&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+&nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
  <h4>Cross-platform App Development:</h4>
 <p align="left">
