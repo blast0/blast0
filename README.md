@@ -29,14 +29,14 @@ HTML &nbsp;&nbsp;&nbsp;CSS &nbsp; Javascript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <br/>
-TypeScript&nbsp; Jqeury &nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;NextJS
+TypeScript&nbsp; Jqeury &nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NextJS
 &nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
 &nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
@@ -45,8 +45,8 @@ C Sharp &nbsp;NodeJS&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Fireb
 <br/>
 &nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@ C Sharp &nbsp;NodeJS&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Fireb
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/>
  <img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/>
  <img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="50" height="50"/>
   </p>
 <hr/>
 <h3>Connect with me:</h3>
