@@ -41,7 +41,7 @@ TypeScript&nbsp;&nbsp;&nbsp; Jqeury &nbsp;&nbsp;&nbsp;&nbsp;Angular &nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 <br/>
-C Sharp &nbsp;NodeJS&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Firebase&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;&nbsp;
+C Sharp &nbsp;NodeJS&nbsp;&nbsp;&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Firebase&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 &nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
 &nbsp;&nbsp;&nbsp;
