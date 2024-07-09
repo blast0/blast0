@@ -23,34 +23,26 @@
 <h4 align="left">Web Development:</h4>
 <p align="left"> <span> 
 
-HTML &nbsp;&nbsp;&nbsp;CSS &nbsp; Javascript
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
-<br/>
-TypeScript&nbsp;&nbsp;&nbsp; Jqeury &nbsp;&nbsp;&nbsp;&nbsp;Angular &nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sass&nbsp;&nbsp;&nbsp;&nbsp; Tailwind-CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NextJS
-&nbsp;&nbsp;&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
-&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="50" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
-<br/>
-C Sharp &nbsp;NodeJS&nbsp;&nbsp;&nbsp;&nbsp;ExpressJS&nbsp;&nbsp; Socket-IO&nbsp;&nbsp;Firebase&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-&nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE0ZUjmSERFD6he__HGbUeEO_tTfoH8dXjhQUR_hNosw&s" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+## Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />  <br>   HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>    <br>   CSS | <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>    <br> Javascript | <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>    <br>   TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>     <br>      Jqeury | <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="50" height="40"/><br>BootStrap              | <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>   <br>   Sass                       | <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <br>  Tailwind-CSS | 
+| - | - | -| - | - | - | - | - 
+ 
+
+
+<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>    <br>   React |                  <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>    <br>   Angular |  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br>   NextJS | 
+| - | - | - 
+
+## Backend
+
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>    <br>  NodeJS | <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="socketio" width="40" height="40"/> <br> ExpressJs | <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/> <br> C Sharp | <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br> NextJS | <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>  <br>   Socket-IO | <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/> <br> Firebase | <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> <br> MongoDB |
+| - | - | - | - | - | - | -
+
+
+       
+
+
  <h4>Cross-platform App Development:</h4>
 <p align="left">
  <img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>
