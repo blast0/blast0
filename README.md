@@ -25,32 +25,25 @@
 
 
 ## Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />  <br>   HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>    <br>   CSS | <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>    <br> Javascript | <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>    <br>   TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>     <br>      Jqeury | <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="50" height="40"/><br>BootStrap              | <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>   <br>   Sass                       | <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <br>  Tailwind-CSS | 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />  <br>   HTML | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>    <br>   CSS |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>    <br> Javascript | <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript" width="40" height="40"/>    <br>   TypeScript | <a href="https://api.jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>     <br>      Jqeury | <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="50" height="40"/><br>BootStrap              | <a href="https://sass-lang.com/documentation/"><img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>   <br>   Sass                       | <a href="https://tailwindcss.com/docs/installation"><img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  <br>  Tailwind-CSS | 
 | - | - | -| - | - | - | - | - 
  
 
-
-<img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>    <br>   React |                  <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>    <br>   Angular |  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br>   NextJS | 
+<a href="https://react.dev/learn"><img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>    <br>   React |                  <a href="https://angular.dev/overview"><img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>    <br>   Angular |  <a href="https://nextjs.org/docs"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br>   NextJS | 
 | - | - | - 
 
 ## Backend
 
-<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>    <br>  NodeJS | <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="socketio" width="40" height="40"/> <br> ExpressJs | <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/> <br> C Sharp | <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br> NextJS | <img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>  <br>   Socket-IO | <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/> <br> Firebase | <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> <br> MongoDB |
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>    <br>  NodeJS | <a href="https://expressjs.com/en/starter/installing.html"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="socketio" width="40" height="40"/> <br> ExpressJs | <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="csharp" width="40" height="40"/> <br> C Sharp | <a href="https://nextjs.org/docs"><img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>  <br> NextJS | <a href="https://socket.io/docs/v4/"><img src="https://static-00.iconduck.com/assets.00/socket-io-icon-2048x2046-tx88w4en.png" alt="socketio" width="40" height="40"/>  <br>   Socket-IO | <a href="https://firebase.google.com/docs"><img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/> <br> Firebase | <a href="https://www.mongodb.com/docs/"><img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> <br> MongoDB |
 | - | - | - | - | - | - | -
 
+## Cross-platform App Development   
+    
+<a href="https://learn.microsoft.com/en-us/azure/"><img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>    <br>  MS Azure |  <a href="https://learn.microsoft.com/en-us/microsoftteams/platform/mstdd-landing"><img src="https://cdn.svgporn.com/logos/microsoft-teams.svg" alt="ionic" width="40" height="40"/> <br> MS Teams |    <a href="https://learn.microsoft.com/en-us/power-apps/"><img src="https://www.vanroey.be/wp-content/uploads/Microsoft-Power-Apps-Icon.png" alt="ionic" width="40" height="40"/> <br> MS Power Apps | <a href="https://learn.microsoft.com/en-us/power-bi/"><img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/> <br>   MS Power BI | <a href="https://learn.microsoft.com/en-us/power-automate/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/> <br> MS Power Automate |   <a href="https://learn.microsoft.com/en-us/power-pages/"><img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/> <br>  MS Power Pages | 
+| - | - | - | - | - | - |
+     
 
-       
-
-
- <h4>Cross-platform App Development:</h4>
-<p align="left">
- <img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>
- <img src="https://cdn.svgporn.com/logos/microsoft-teams.svg" alt="ionic" width="40" height="40"/>
- <img src="https://www.vanroey.be/wp-content/uploads/Microsoft-Power-Apps-Icon.png" alt="ionic" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/>
- <img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/>
- <img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/>
+<p align="left"> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="capacitor" width="50" height="50"/>
   </p>
 <hr/>
