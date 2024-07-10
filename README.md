@@ -38,8 +38,9 @@
 | - | - | - | - | - | - | -
 
 ## Cross-platform App Development   
-    
-<a href="https://learn.microsoft.com/en-us/azure/"><img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>    <br>  MS Azure |  <a href="https://learn.microsoft.com/en-us/microsoftteams/platform/mstdd-landing"><img src="https://cdn.svgporn.com/logos/microsoft-teams.svg" alt="ionic" width="40" height="40"/> <br> MS Teams |    <a href="https://learn.microsoft.com/en-us/power-apps/"><img src="https://www.vanroey.be/wp-content/uploads/Microsoft-Power-Apps-Icon.png" alt="ionic" width="40" height="40"/> <br> MS Power Apps | <a href="https://learn.microsoft.com/en-us/power-bi/"><img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/> <br>   MS Power BI | <a href="https://learn.microsoft.com/en-us/power-automate/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/> <br> MS Power Automate |   <a href="https://learn.microsoft.com/en-us/power-pages/"><img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/> <br>  MS Power Pages | 
+
+
+  <a href="https://learn.microsoft.com/en-us/power-apps/"><img src="https://www.vanroey.be/wp-content/uploads/Microsoft-Power-Apps-Icon.png" alt="ionic" width="40" height="40"/> <br> Microsoft <br> Power <br> Apps | <a href="https://learn.microsoft.com/en-us/power-automate/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/240px-Microsoft_Power_Automate.svg.png" alt="ionic" width="40" height="40"/> <br> Microsoft <br> Power  <br>Automate |   <a href="https://learn.microsoft.com/en-us/power-bi/"><img src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="ionic" width="40" height="40"/> <br>   Microsoft <br> Power <br> BI | <a href="https://learn.microsoft.com/en-us/power-pages/"><img src="https://a.fsdn.com/allura/s/microsoft-power-pages/icon?5d13b5a446bad6775e00e350654bd77aae7599a923d187b1070e1614bff08866?&w=148" alt="ionic" width="40" height="40"/> <br> Microsoft <br>  Power  <br>Pages | <a href="https://learn.microsoft.com/en-us/microsoftteams/platform/mstdd-landing"><img src="https://cdn.svgporn.com/logos/microsoft-teams.svg" alt="ionic" width="40" height="40"/> <br> Microsoft <br>  <br>Teams | <a href="https://learn.microsoft.com/en-us/azure/"><img src="https://cdn.svgporn.com/logos/microsoft-azure.svg" alt="ionic" width="40" height="40"/>    <br>   Microsoft <br> <br>Azure  |   
 | - | - | - | - | - | - |
      
 
@@ -51,3 +52,4 @@
 
 <a href="https://bishalkumar-sde.netlify.app" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://linkedin.com/in/bishal-kumar-832398158" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+
